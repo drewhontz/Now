@@ -2,11 +2,11 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Backstory](###backstory)
-3. [Update - Feb 5th, 2018](##Update)
-4. [Project Overview](##Project-Overview)
-5. [How to use](##How-to-use) 
-6. [Contents](##Contents)
+2. [Backstory](#backstory)
+3. [Update - Feb 5th, 2018](#update)
+4. [Project Overview](#project-Overview)
+5. [How to use](#how-to-use) 
+6. [Contents](#contents)
 
 ### Description
 
