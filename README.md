@@ -1,8 +1,8 @@
 # Now That's What I Call Music Classifier
 
 ## Table of Contents
-1. [Description](###Description)
-2. [Backstory](###Backstory)
+1. [Description](#description)
+2. [Backstory](###backstory)
 3. [Update - Feb 5th, 2018](##Update)
 4. [Project Overview](##Project-Overview)
 5. [How to use](##How-to-use) 
