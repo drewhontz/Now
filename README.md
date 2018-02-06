@@ -116,7 +116,7 @@ Are you confident in the available to data's ability to answer the project's que
 
 ### Feature Selection
 
-![feature corr]("https://github.com/drewhontz/Now/blob/master/img/fc.JPG" "Feature Correlation")
+![feature corr](https://github.com/drewhontz/Now/blob/master/img/fc.JPG "Feature Correlation")
 
 When selecting features it was important to look for **correlation** with the target (Now appearance or not), any **outliers** in the training set, and any gaping **missing values**.
 
